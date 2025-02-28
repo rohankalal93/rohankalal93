@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## About Me
 
-I am Rohan Kalal, a driven and detail-oriented Data Engineer currently pursuing a Master of Information Systems at the University of Maryland, where I have been recognized as a Terrapin Scholar. With a strong foundation in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, I have consistently demonstrated my ability to manage complex datasets and develop innovative solutions that enhance operational efficiency.
+I am Rohan Kalal, a driven and detail-oriented Data Analytics Engineer with a Master of Information Systems from the University of Maryland, where I was recognized as a Terrapin Scholar. With a strong foundation in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, I have consistently demonstrated my ability to manage complex datasets and develop innovative solutions that enhance operational efficiency.
 
-At the University of Maryland, I serve as a Research Assistant, where my work involves integrating diverse databases using advanced Python programming and NLP techniques to optimize supply chain processes. Previously, I was a Data Engineering Associate at Accenture Solutions Pvt Ltd in Pune, India, where I led significant projects that improved data processing capabilities for millions of users and spearheaded strategic migrations to cloud-based platforms.
+At the University of Maryland, I worked as a Research Assistant, where my work involved integrating diverse databases using advanced Python programming and NLP techniques to optimize supply chain processes. Previously, I was a Data Engineering Associate at Accenture Solutions Pvt Ltd in Pune, India, where I led significant projects that improved data processing capabilities for millions of users and spearheaded strategic migrations to cloud-based platforms.
 
-My technical toolkit is comprehensive, encompassing languages and frameworks such as Python, R, C#, SQL, Spark, MongoDB, and Google Cloud, alongside advanced data visualization with Tableau and Power BI. My projects range from developing predictive analytics models for real estate to implementing IoT solutions for healthcare that improve patient monitoring remotely.
+My technical toolkit is comprehensive, encompassing languages and frameworks such as Python, R, C#, SQL, Spark, MongoDB, and Google Cloud, alongside advanced data visualization with Tableau and Power BI. My projects range from developing predictive analytics models for real estate to implementing IoT solutions for healthcare that improve remote patient monitoring.
 
-Discover more about my projects and professional journey at my portfolio and connect with me on LinkedIn. You can also explore my code and contributions on GitHub.
+Discover more about my projects and professional journey at my Portfolio, connect with me on LinkedIn, and explore my code and contributions on GitHub.
 
 ## Skills
 
@@ -38,7 +38,6 @@ Discover more about my projects and professional journey at my portfolio and con
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
 
 
 ## Let's Connect!
