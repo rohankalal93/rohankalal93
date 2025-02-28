@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## About Me
 
-I am Rohan Kalal, a driven and detail-oriented Data Analytics Engineer with a Master of Information Systems from the University of Maryland, where I was recognized as a Terrapin Scholar. With a strong foundation in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, I have consistently demonstrated my ability to manage complex datasets and develop innovative solutions that enhance operational efficiency.
+I am Rohan Kalal, a driven and detail-oriented Senior Data Analyst with a Master of Information Systems from the University of Maryland, where I was recognized as a Terrapin Scholar. With a strong foundation in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, I have consistently demonstrated my ability to manage complex datasets and develop innovative solutions that enhance operational efficiency.
 
 At the University of Maryland, I worked as a Research Assistant, where my work involved integrating diverse databases using advanced Python programming and NLP techniques to optimize supply chain processes. Previously, I was a Data Engineering Associate at Accenture Solutions Pvt Ltd in Pune, India, where I led significant projects that improved data processing capabilities for millions of users and spearheaded strategic migrations to cloud-based platforms.
 
